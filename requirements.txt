@@ -1,0 +1,7 @@
+
+streamlit==1.48.1
+langchain-core==0.3.75
+langchain-community==0.3.27
+langchain-groq==0.3.8
+duckduckgo-search==8.1.1
+pytest==8.4.1
